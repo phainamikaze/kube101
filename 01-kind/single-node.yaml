@@ -1,0 +1,4 @@
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+name: all-in-one
+# Single node cluster with control plane and worker roles.
